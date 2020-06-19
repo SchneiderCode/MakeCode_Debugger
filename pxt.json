@@ -1,6 +1,6 @@
 {
-    "name": "my-extension",
-    "description": "A custom extension",
+    "name": "MakeCode_Debugger",
+    "description": "A debugger for makecode",
     "version": "0.0.1",
     "license": "MIT",
     "dependencies": {
@@ -15,7 +15,7 @@
     ],
     "public": true,
     "extension": {
-        "namespace": "custom",
+        "namespace": "Debugger",
         "label": "Custom editor",
         "localUrl": "http://127.0.0.1:3000/index.html"
     }

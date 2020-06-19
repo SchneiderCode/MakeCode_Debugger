@@ -34,7 +34,7 @@ module.exports = {
         new HtmlWebpackPlugin({
             inject: false,
             hash: false,
-            title: 'pxt-extension-name',
+            title: 'MakeCode_Debugger',
             semanticUIPath: 'semantic-ui-css',
             reactPath: 'react',
             reactDomPath: 'react-dom',
