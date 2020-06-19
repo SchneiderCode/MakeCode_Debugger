@@ -15,8 +15,9 @@
     ],
     "public": true,
     "extension": {
-        "namespace": "Debugger",
+        "namespace": "custom",
         "label": "Custom editor",
         "localUrl": "http://127.0.0.1:3000/index.html"
     }
+
 }
